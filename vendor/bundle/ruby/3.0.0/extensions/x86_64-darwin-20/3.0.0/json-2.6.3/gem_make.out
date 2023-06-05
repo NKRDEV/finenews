@@ -1,0 +1,13 @@
+current directory: /Users/nkr/Documents/Freelance/finenews/finenewsapp/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json/ext/generator
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.0_1/lib/ruby/3.0.0 -r ./siteconf20230605-53150-w96lfs.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nkr/Documents/Freelance/finenews/finenewsapp/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json/ext/generator
+make "DESTDIR=" clean
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+current directory: /Users/nkr/Documents/Freelance/finenews/finenewsapp/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json/ext/generator
+make "DESTDIR="
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+make failed, exit code 1
