@@ -1,13 +1,13 @@
-#Thu Jun 08 11:40:08 IST 2023
+#Thu Jun 08 15:11:50 IST 2023
 path.4=classes2.dex
-path.3=0/classes.dex
-path.2=14/classes.dex
+path.3=14/classes.dex
+path.2=0/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
 base.4=D\:\\ReactprojectSamples\\finenews\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.3=D\:\\ReactprojectSamples\\finenews\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.2=D\:\\ReactprojectSamples\\finenews\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.1=D\:\\ReactprojectSamples\\finenews\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=D\:\\ReactprojectSamples\\finenews\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.2=D\:\\ReactprojectSamples\\finenews\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\ReactprojectSamples\\finenews\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
 base.0=D\:\\ReactprojectSamples\\finenews\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
