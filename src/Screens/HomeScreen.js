@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   headerText: {
-    ..._Text(FontSize.largeVariantXs, Family.bold, Colors.darkHomeBg),
+    ..._Text(FontSize.largeVariantXs, Family.robotoBold, Colors.darkHomeBg),
     paddingHorizontal: Spacing.small,
     justifyContent: 'center',
     alignItems: 'center',
@@ -126,7 +126,7 @@ const styles = StyleSheet.create({
   },
 
   subHead: {
-    ..._Text(FontSize.medium, Family.robotoMedium, Colors.textDark),
+    ..._Text(FontSize.medium, Family.robotoRegular, Colors.textDark),
     paddingBottom: Spacing.xs,
     textAlign: 'center',
   },
